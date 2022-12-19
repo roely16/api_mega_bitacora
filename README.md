@@ -1,2 +1,3 @@
-# api_mega_bitacora
- 
+# API Mega Bitácora
+
+Servicio de la aplicación Mega Bitácora. 
